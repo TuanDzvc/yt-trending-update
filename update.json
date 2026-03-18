@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
-    "download_url": "https://drive.usercontent.google.com/download?id=1eZkB1I1sCUqSgfOrrStm-mmW6YUXXduI&export=download",
-    "changelog": "- Nâng cấp giao diện Đăng nhập/Đăng ký\n- Chặn mở nhiều cửa sổ\n- Tự tắt tool khi cập nhật\n- Sửa lỗi Icon viền trắng trên Desktop"
+    "version": "1.4.0",
+    "download_url": "https://drive.usercontent.google.com/download?id=1hkE90K66bF_IugNsS4H27Te76FELfn5D&export=download",
+    "changelog": "- Tính năng tải và cập nhật tự động cực nhanh\n- Khắc phục lỗi hiển thị Icon viền trắng trên nền Desktop\n- Tối ưu hiệu suất và dung lượng chạy"
 }
