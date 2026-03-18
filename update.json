@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
-    "download_url": "https://drive.usercontent.google.com/download?id=1hkE90K66bF_IugNsS4H27Te76FELfn5D&export=download",
-    "changelog": "- Tính năng tải và cập nhật tự động cực nhanh\n- Khắc phục lỗi hiển thị Icon viền trắng trên nền Desktop\n- Tối ưu hiệu suất và dung lượng chạy"
+    "version": "1.4.1",
+    "download_url": "https://drive.usercontent.google.com/download?id=14_B1ry0yhJejuGFWPhP48JouNweaCUpi&export=download",
+    "changelog": "- Tính năng: Bỏ qua cảnh báo quét Virus của Google Drive để tải và tự động cài đè ngầm cực mượt\n- Khắc phục 100% triệt để lỗi biểu tượng Icon hiển thị sai màu nền trên màn hình Desktop\n- Fix các lỗi nhỏ khác"
 }
