@@ -1,5 +1,5 @@
 {
     "version": "1.4.1",
-    "download_url": "https://drive.usercontent.google.com/download?id=14_B1ry0yhJejuGFWPhP48JouNweaCUpi&export=download",
-    "changelog": "- Tính năng: Bỏ qua cảnh báo quét Virus của Google Drive để tải và tự động cài đè ngầm cực mượt\n- Khắc phục 100% triệt để lỗi biểu tượng Icon hiển thị sai màu nền trên màn hình Desktop\n- Fix các lỗi nhỏ khác"
+    "download_url": "https://drive.usercontent.google.com/download?id=15yZjQk2LhzoVfzxiZ1ZHstQW219RVk4l&export=download",
+    "changelog": "Auto-update trực tiếp trong tool, bypass Google Drive, tự mở lại tool sau khi cập nhật."
 }
