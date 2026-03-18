@@ -1,5 +1,5 @@
 {
     "version": "1.3.0",
-    "download_url": "https://drive.usercontent.google.com/download?id=1ggX2DSvWLmlYv_ufiuu5KI1xRydW7H8i&export=download",
-    "changelog": "- Nâng cấp giao diện Đăng nhập/Đăng ký\n- Chặn mở nhiều cửa sổ\n- Tự tắt tool khi cập nhật\n- Giữ config khi update"
+    "download_url": "https://drive.usercontent.google.com/download?id=1eZkB1I1sCUqSgfOrrStm-mmW6YUXXduI&export=download",
+    "changelog": "- Nâng cấp giao diện Đăng nhập/Đăng ký\n- Chặn mở nhiều cửa sổ\n- Tự tắt tool khi cập nhật\n- Sửa lỗi Icon viền trắng trên Desktop"
 }
