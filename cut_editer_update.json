@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Cut_Editer_Auto_Pro_v1.1.0.exe",
-    "changelog": "Tối ưu Render thông minh 3 Tầng Giật Cấp (Khắc phục tuyệt đối lỗi văng NVENC trên Driver/Card cũ), Tự động lùi về cấu hình an toàn khi GPU gặp sự cố, Tự động hiện lại bảng Smart khi tạo Bot/API, Mặc định kéo Video 2K."
+    "version": "1.1.1",
+    "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Cut_Editer_Auto_Pro_v1.1.1.exe",
+    "changelog": "Cập nhật cơ chế Bypass giao diện rào cản từ Google Cloud, sửa triệt để lỗi đứng màn hình lúc tạo API Key. Mở khóa Chế độ Auto Vét Cạn: tự động quét và thu gom trót lọt Key từ những Project cũ trong Acc để lách luật Quota. Loại bỏ ô nhập tay, tự động cào mòn tận gốc số lượng Project trong tài khoản."
 }
