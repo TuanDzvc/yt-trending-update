@@ -1,5 +1,1 @@
-{
-    "version": "1.0.1",
-    "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Cut_Editer_Auto_Pro_v1.0.1.exe",
-    "changelog": "Tự động Dọn dẹp Sheet cực mạnh khi thay Link kênh ở A2, Rút gọn API Google giữ mỏ Quota (bỏ qua bước lấy Info 2 lần), Cập nhật Nút Copy API bưng cả cụm Chìa khóa Chính A8 lẫn Dự phòng đè sang các Sheet láng giềng, Fix dứt điểm lỗi đẻ thêm 5 ô Dropdown Khống ở Sheet rỗng, Tích hợp Hộp Đen Máy Khách ghi trót lọt mọi Lỗi Crash vào file crash_log.txt."
-}
+
