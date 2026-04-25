@@ -1,6 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.2.exe",
-  "changelog": "Fix Smart Engine reset bảng render khi đổi giữa Gem và render thường, Giữ nguyên bảng render khi Gem sang Gem hoặc thường sang thường, Đóng Chrome/Gem browser cũ khi reset bảng để tránh lỗi nhúng trình duyệt, Fix lỗi xóa cấu hình lưu: tự về Trống và reset toàn bộ scale/speed/phụ đề/text/options, Bổ sung kiểm tra onnxruntime cho whisper_engine, Không để VAD làm crash faster-whisper"
+  "version": "1.0.3",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
+  "changelog": "Sửa lỗi tải video 2K bị thiếu âm thanh nhưng vẫn báo đã tải xong, Bắt buộc kiểm tra file tải bằng ffprobe: phải có video stream, audio stream và duration hợp lệ mới được đẩy sang render, Nếu file tải xong nhưng thiếu audio hoặc hỏng thì trả về Tải lỗi, mở lại checkbox để tải lại và không lưu trạng thái đã tải, Sửa lỗi Smart Engine coi dòng tải lỗi là hoàn tất thành công làm kênh sau bị ngắt render, Sửa lỗi trạng thái downloading cũ không có file bị tự đổi thành downloaded, Giữ nguyên cấu hình kênh, cấu hình lưu, preset và dữ liệu người dùng khi cài đè bản mới, Sửa Smart Engine reset bảng render khi đổi giữa Gem và render thường, Đóng Chrome/Gem browser cũ khi reset bảng để tránh lỗi nhúng trình duyệt, Sửa lỗi xóa cấu hình lưu: tự về Trống và reset toàn bộ scale/speed/phụ đề/text/options, Bổ sung kiểm tra onnxruntime cho whisper_engine, Không để VAD làm crash faster-whisper, Đổi chữ log cập nhật sang màu vàng và thêm dấu phân cách trắng giữa hai cột"
 }
-
