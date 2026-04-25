@@ -1,1 +1,6 @@
+{
+  "version": "1.0.2",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.2.exe",
+  "changelog": "Fix Smart Engine reset bảng render khi đổi giữa Gem và render thường, Giữ nguyên bảng render khi Gem sang Gem hoặc thường sang thường, Đóng Chrome/Gem browser cũ khi reset bảng để tránh lỗi nhúng trình duyệt, Fix lỗi xóa cấu hình lưu: tự về Trống và reset toàn bộ scale/speed/phụ đề/text/options, Bổ sung kiểm tra onnxruntime cho whisper_engine, Không để VAD làm crash faster-whisper"
+}
 
