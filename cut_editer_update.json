@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.1.exe",
   "changelog": "Sửa lỗi tải 2K thiếu audio, Check audio trước khi render, Tự retry đúng video lỗi 2 lần, Lần 1 tải tiếp audio rồi ghép, Lần 2 tải lại full video đó, Không thay bằng video khác, Không lưu downloaded sai, Installer không xóa cấu hình/preset, Giữ dữ liệu khi cài đè, Sửa reset bảng Gem/thường, Đóng Chrome/Gem browser cũ, Sửa xóa cấu hình về Trống, Kiểm tra onnxruntime Whisper, Không để VAD crash faster-whisper"
 }
