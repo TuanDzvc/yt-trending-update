@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.1.exe",
+  "version": "1.0.3",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
   "changelog": "Sửa Smart Engine load kênh lớn, Sửa tìm kiếm video trong danh sách, Sửa nút Cũ Nhất/Mới Tải, Sửa lọc Video Dài/Short, Sửa lag khi chuột phải, Sửa đánh dấu Video Đã Tải/Đã Render, Sửa lỗi thumbnail bị trống/đè card, Sửa mở đúng thư mục render, Sửa tracking Sheet còn 2 cột, Sửa lỗi font/mojibake, Tối ưu đóng Smart Engine"
 }
