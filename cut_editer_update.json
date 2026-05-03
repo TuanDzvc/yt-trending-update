@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
-  "changelog": "Sửa Smart Engine load kênh lớn, Sửa tìm kiếm video trong danh sách, Sửa nút Cũ Nhất/Mới Tải, Sửa lọc Video Dài/Short, Sửa lag khi chuột phải, Sửa đánh dấu Video Đã Tải/Đã Render, Sửa lỗi thumbnail bị trống/đè card, Sửa mở đúng thư mục render, Sửa tracking Sheet còn 2 cột, Sửa lỗi font/mojibake, Tối ưu đóng Smart Engine"
+  "changelog": "Thêm các mode lách mới như Nhịp Zoom + Lật + Màu và Nhảy Zoom + Lật + Màu, Thêm render bằng GPU Max dùng NativeD3DCompositor(render nhanh vãi lồn), Sửa một số lỗi cơ bản, Nâng Smart Highlight hỗ trợ 3 mode/4 mode và Visual Highlight, Nâng prompt QC chống chia timeline đều, Thêm kiểm tra intro/outro audio cho QC, Nâng Visual Highlight chống lấy intro/recap đầu video"
 }
