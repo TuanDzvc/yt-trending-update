@@ -1,5 +1,33 @@
 {
   "version": "1.0.1",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.1.exe",
-  "changelog": "Thêm mode lách Nhịp Zoom + Lật + Màu và Nhảy Zoom + Lật + Màu, Thêm GPU Max NativeD3DCompositor (render nhanh vãi lồn), Nâng Smart Highlight hỗ trợ Visual Highlight, Sửa QC intro/outro và chia timeline, Sửa lỗi Native D3D và một số lỗi cơ bản"
+  "changelog": "Thêm mode lách Nhịp Zoom + Lật + Màu và Nhảy Zoom + Lật + Màu, Thêm GPU Max NativeD3DCompositor (render nhanh vãi lồn), Nâng Smart Highlight hỗ trợ Visual Highlight, Sửa QC intro/outro và chia timeline",
+
+  "notice": {
+    "enabled": false,
+    "id": "09-05-2026-chung-01",
+    "title": "Thông báo chung",
+    "subtitle": "Tất cả user đều thấy thông báo này.",
+    "items": [
+      "Dòng thông báo chung số 1.",
+      "Dòng thông báo chung số 2."
+    ],
+    "button": "Đã hiểu",
+    "repeat": false
+  },
+
+  "user_notice": {
+    "enabled": false,
+    "id": "09-05-2026-rieng-01",
+    "title": "Thông báo riêng",
+    "subtitle": "Chỉ user trong danh sách thấy.",
+    "items": [
+      "Đây là nội dung riêng cho user."
+    ],
+    "button": "Đã hiểu",
+    "repeat": false,
+    "users": [
+      "abc@gmail.com"
+    ]
+  }
 }
