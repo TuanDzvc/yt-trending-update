@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.1.exe",
-  "changelog": "Thêm mode lách Nhịp Zoom + Lật + Màu và Nhảy Zoom + Lật + Màu, Thêm GPU Max NativeD3DCompositor (render nhanh vãi lồn), Nâng Smart Highlight hỗ trợ Visual Highlight, Sửa QC intro/outro và chia timeline",
+  "changelog": "Sửa lỗi tải 2K thiếu audio, Kiểm tra audio trước khi render, Tự retry đúng video lỗi tối đa 2 lần, Không thay nhầm video khác hoặc lưu trạng thái tải sai, Giữ nguyên cấu hình và preset khi cài đè, Sửa reset bảng Gem và bảng thường, Tự đóng Chrome và Gem browser cũ, Sửa xóa cấu hình về Trống, Kiểm tra onnxruntime cho Whisper, Tránh VAD làm crash faster-whisper",
 
   "notice": {
     "enabled": false,
