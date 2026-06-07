@@ -1,7 +1,7 @@
 {
   "version": "1.0.3",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
-  "changelog": "Sửa Render Tự Động chọn tiếp video hợp lệ khi gặp video live/sự kiện chưa phát, Sửa Render Tự Động nhận sai trạng thái kênh đã xử lý, Sửa Smart Engine ghi sai trạng thái video và báo video mới ảo, Sửa bắt buộc cập nhật bản mới nếu không cập nhật thì thoát tool",
+  "changelog": "Sửa Smart Engine mở card nhóm bị treo hoặc không load video đúng kênh, Sửa thêm kênh mới tự chọn đúng kênh vừa add và load video ngay",
 
   "notice": {
     "enabled": false,
