@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.2.exe",
-  "changelog": "Sửa lỗi tải 2K thiếu audio, Kiểm tra audio trước khi render, Tự retry đúng video lỗi tối đa 2 lần, Không thay nhầm video khác hoặc lưu trạng thái tải sai, Giữ nguyên cấu hình và preset khi cài đè, Sửa reset bảng Gem và bảng thường, Tự đóng Chrome và Gem browser cũ, Sửa xóa cấu hình về Trống, Kiểm tra onnxruntime cho Whisper, Tránh VAD làm crash faster-whisper",
+  "version": "1.0.3",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
+  "changelog": "Sửa Render Tự Động chọn tiếp video hợp lệ khi gặp video live/sự kiện chưa phát, Sửa Render Tự Động nhận sai trạng thái kênh đã xử lý, Sửa Smart Engine ghi sai trạng thái video và báo video mới ảo, Sửa bắt buộc cập nhật bản mới nếu không cập nhật thì thoát tool",
 
   "notice": {
     "enabled": false,
