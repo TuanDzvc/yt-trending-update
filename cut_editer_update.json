@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
-  "changelog": "Sửa Smart Engine mở card nhóm bị treo hoặc không load video đúng kênh, Sửa thêm kênh mới tự chọn đúng kênh vừa add và load video ngay",
+  "version": "1.0.4",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.4.exe",
+  "changelog": "Sửa thêm kênh mới tự chọn đúng kênh vừa add và tải video ngay, Sửa đồng bộ định tuyến kênh giữa Sửa Kênh và Cấu hình kênh, Sửa lỗi thiếu hàm làm crash khi mở thêm kênh, Sửa bộ đếm Đã Render lấy đúng tổng số video của kênh",
 
   "notice": {
     "enabled": false,
