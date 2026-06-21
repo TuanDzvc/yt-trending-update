@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.3.exe",
+  "version": "1.0.5",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.5.exe",
   "changelog": "Thêm tính năng tải video như Hitomi download bên Smart Engine, Tải được các video mà Hittomi không tải được, Fix render bị treo, Cơ chế Định tuyến kênh mới giờ sẽ không phải nhập thủ công như trước. Tool sẽ tự tìm tới thư mục tên kênh trong thư mục chính",
 
   "notice": {
