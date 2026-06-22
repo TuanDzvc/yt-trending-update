@@ -17,7 +17,7 @@
   },
 
   "user_notice": {
-    "enabled": true,
+    "enabled": false,
     "id": "09-05-2026-rieng-03",
     "title": "Thông báo riêng",
     "subtitle": "Chỉ user trong danh sách thấy.",
