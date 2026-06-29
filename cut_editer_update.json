@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.5.exe",
-  "changelog": "Fix thêm 1 số lỗi cơ bản. Tải được các video trẻ em bị chặn ở Hittomi mà không phải tải qua Cốc Cốc, Sử dụng tính năng tải video bên Smart Engine tượng tự như tải video bằng Hitomi download để trải nghiệm và đánh giá.",
+  "version": "1.0.7",
+  "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Editer_Auto_Pro_v1.0.7.exe",
+  "changelog": "Fix lỗi bị treo tool khi vừa mở lên, Fix lỗi render scale khi tự nhảy về scale 100%.",
 
   "notice": {
     "enabled": false,
