@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Downloader_Pro_v1.0.1.exe",
-  "changelog": "Sửa cơ chế cập nhật riêng cho Tik Downloader Pro, cải thiện tải video và đồng bộ giao diện tải.",
+  "changelog": "Thêm tính năng Ctrl G để gộp nhóm video, cải thiện tải video và đồng bộ giao diện tải.",
 
   "notice": {
     "enabled": false,
