@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
   "download_url": "https://pub-49610ee782d34f3e8431c2de8baebd60.r2.dev/Setup_Tik_Downloader_Pro_v1.0.5.exe",
-  "changelog": "Cải thiện tải video và đồng bộ giao diện tải, Fix thêm 1 số lỗi download.",
+  "changelog": "Fix thêm 1 số lỗi download.",
 
   "notice": {
     "enabled": false,
